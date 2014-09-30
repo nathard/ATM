@@ -1,0 +1,10 @@
+c:\users\nothing\documents\visual studio 2010\Projects\ATM\ATM\bin\Debug\ATM.exe
+c:\users\nothing\documents\visual studio 2010\Projects\ATM\ATM\bin\Debug\ATM.pdb
+c:\users\nothing\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nothing\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Debug\ATM.exe
+c:\users\nothing\documents\visual studio 2010\Projects\ATM\ATM\obj\x86\Debug\ATM.pdb
+C:\Users\nothing\Documents\GitHub\ATM\ATM\obj\x86\Debug\ATM.exe
+C:\Users\nothing\Documents\GitHub\ATM\ATM\obj\x86\Debug\ATM.pdb
+C:\Users\nothing\Documents\GitHub\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\nothing\Documents\GitHub\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\nothing\Documents\GitHub\ATM\ATM\obj\x86\Debug\ResolveAssemblyReference.cache
